@@ -71,7 +71,7 @@ Use the Google Directions API to create a travel itinerary that shows the route 
 
 ## Deliverable 1 Results: Collect the Data
 -- Out of the 2,000 random latitudes and longitudes that were generated, 757 nearest cities were listed with 688 of those cities generating data and stored in the Weather_Database. 
-![city_data_dataframe.png](https://github.com/KimberlyCrawford/World_Weather_Analysis/blob/main/Resources/city_data_dataframe.png)
+![city_data_dataframe.png](https://github.com/KimberlyCrawford/World_Weather_Analysis/blob/main/RESOURCES/city_data_dataframe.png)
 
 ## Deliverable 2 Results: Exploratory Analysis with Visualization
 
