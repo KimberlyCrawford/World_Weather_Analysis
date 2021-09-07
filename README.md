@@ -78,7 +78,7 @@ Use the Google Directions API to create a travel itinerary that shows the route 
 
 ## Deliverable 2 Results: Exploratory Analysis with Visualization
 -- Based on customer weather preferences of 72 minimum temp and 80 maximum temp, below is a map of potential travel destinations and nearby hotels. 
-![map.png](https://github.com/KimberlyCrawford/World_Weather_Analysis/blob/main/RESOURCES/map.png)
+![WeatherPy_vacation_map.png](https://github.com/KimberlyCrawford/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 ## Deliverable 3 Results: Visualize Travel Data
 
