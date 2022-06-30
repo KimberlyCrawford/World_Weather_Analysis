@@ -79,3 +79,5 @@ Use the Google Directions API to create a travel itinerary that shows the route 
 ### Deliverable 3 Results: Visualize Travel Data
 -- Below is the travel itinerary map.
 ![WeatherPy_travel_map.png](https://github.com/KimberlyCrawford/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
+
+#### Module 6, Data Analysis & Visualization Certificate Program, UT Austin McCombs School of Business, 2021.
